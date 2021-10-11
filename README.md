@@ -18,9 +18,7 @@
 
 
 ### Thanks for visiting!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I'm an aspiring web developer,   
   
 
 <h2>Trophies</h2>
@@ -29,7 +27,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <h2>Things I code with</h2>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=JavaScript&logoColor=yellow" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=red" />
 </p>
 
 <br>
