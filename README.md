@@ -18,7 +18,7 @@
 
 
 ### Thanks for visiting!  
-I'm an aspiring web developer,   
+My journey began on 11th August 2020. I decided to take my first steps to a better career and a more produtive lifestyle. 
   
 
 <h2>Trophies</h2>
