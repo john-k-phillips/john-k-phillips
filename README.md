@@ -24,4 +24,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=john-k-phillips&theme=chalk&&column=8&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
