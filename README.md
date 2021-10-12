@@ -18,7 +18,7 @@
 
 
 ### Thanks for visiting!  
-My journey began on 11th August 2020. I decided to take my first steps to a better career and a more produtive lifestyle. 
+My journey began on 11th August 2020. I decided to take my first steps to a better career and a more produtive lifestyle. I recently decided to re-create my accounts to switch my focus entirely on programming, so I'm back to the start learning the basics! I primarly use react, however; I aim to one day, make my switch to Angular.
   
 
 <h2>Trophies</h2>
@@ -27,8 +27,10 @@ My journey began on 11th August 2020. I decided to take my first steps to a bett
 
 <h2>Things I code with</h2>
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=JavaScript&logoColor=yellow" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=red" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/-SASS-bf4080?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 <br>
