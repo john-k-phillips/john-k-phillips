@@ -32,6 +32,7 @@ My journey began on 11th August 2020. I decided to take my first steps to a bett
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-bf4080?style=flat-square&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-61dafb?style=flat-square&logo=Angular&logoColor=black" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=TailwindCSS&logoColor=white" />
   
 </p>
