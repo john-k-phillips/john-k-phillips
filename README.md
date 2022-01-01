@@ -25,7 +25,7 @@ My journey began on 11th August 2020. I decided to take my first steps to a bett
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=john-k-phillips&theme=chalk&&column=8&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2>Things I code with</h2>
+<h2>Things I use</h2>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
